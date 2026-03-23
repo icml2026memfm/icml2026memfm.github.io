@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: The Impact of Memorization on Trustworthy Foundation Models
-email: icml2026memo@gmail.com
+email: # icml2026memo@gmail.com
 description: > # this means to ignore newlines until "url:"
   Understanding unintended memorization is essential to building trustworthy foundation models.
 footer_text: >
@@ -14,7 +14,7 @@ last_updated: 03/23/2026 # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: icml2026memo # your GitHub user name
+github_username: icml2026memfm # your GitHub user name
 twitter_username: # your Twitter user name
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
