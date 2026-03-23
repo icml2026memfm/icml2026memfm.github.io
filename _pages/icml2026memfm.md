@@ -2,9 +2,9 @@
 layout: home
 order: 1
 permalink: /
-title: MemFM Workshop 2025
+title: MemFM Workshop 2026
 # redirect_from: /index.html
-desc_title: The Impact of Memorization on Trustworthy Foundation Models – MemFM @ ICML 2025
+desc_title: The Impact of Memorization on Trustworthy Foundation Models – MemFM @ ICML 2026
 description: Understanding unintended memorization is essential to building trustworthy foundation models.
 social: true
 ---
@@ -22,39 +22,9 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
-<!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
-### Schedule (West Meeting Room 223-224, Sat 19 Jul)
+### Schedule
 
-**Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**  
-**Link to accepted papers (OpenReview): [https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM)**
-
-**All posters will be presented in both poster sessions**
-
-|----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Start Time<br>(GMT-7-08:25, Vancouver)  |  Session                                                 | Speaker(s)                                                                            |
-|:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| 08:25 am | Opening Remarks                                                                            | Organizers                                                                            |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 08:30 am | **Poster Session** (incl. catered breakfast snacks)                                                                               | Paper Authors |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 09:30 am | **Invited Talk 1:** On Testing Memorization in AI: From Brute-Force Methods to Robust Statistical Tests | Reza Shokri |
-| 10:00 am | **Contributed Talk 1:** [Evaluating Memorization in Parameter-Efficient Fine-tuning](https://openreview.net/forum?id=WV82aVnG54) | Sanghyun Hong |
-| 10:15 am | **Contributed Talk 2:** [Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs](https://openreview.net/forum?id=LpE7gf46yO) | Tahseen Rabbani |
-| 10:30 am  | **Invited Talk 2:** What Copyright Can Learn From Memorization Measurements of Language Models | A. Feder Cooper |
-| 11:00 am | **Contributed Talk 3:** [A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective](https://openreview.net/forum?id=vvwpY99gXj) | Qing Qu |
-| 11:15 am  | **Invited Talk 3:** Trade-offs in Data Memorization via Strong Data Processing Inequalities | Vitaly Feldman |
-| 11:45 am | **Contributed Talk 4:** [MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression](https://openreview.net/forum?id=DLLiIysdXf) | Gunjan Dhanuka |
-| 12:00 pm | Lunch Break | |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:30 pm | **Contributed Talk 5** [How Can I Publish My LLM Benchmark Without Giving the True Answers Away?](https://openreview.net/forum?id=LSNdTt2SIY) | Takashi Ishida |
-| 01:45 pm | **Invited Talk 4:** Principled Approaches to Measuring Memorization | Kamalika Chaudhuri |
-| 02:15 pm | **Contributed Talk 6:** [Low Resource Reconstruction Attacks Through Benign Prompts](https://openreview.net/forum?id=zZ2F3Gfish) | Sol Yarkoni |
-| 02:30 pm | **Poster Session 2** (incl. coffee break at 03:00 pm) | Paper Authors |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 03:45 pm | **Invited Talk 5:** What Memorization Research Taught Me About Safety | Pratyush Maini |
-| 04:20 pm | **Panel Discussion** | Amy Beth Cyphert, Casey Meehan, Om Thakkar |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 04:50 pm   | Closing Remarks | Organizers    | 
+The schedule will be announced soon (TBA).
 
 ### Speakers 
 
@@ -62,24 +32,24 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/chaudhuri.jpeg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/cooper.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://cseweb.ucsd.edu/~kamalika/">Kamalika Chaudhuri</a> <small> <br> Professor / Research Scientist <br> UCSD / Meta </small> </td>
-    <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <small> <br>Incoming Assistant Professor / Postdoctoral Researcher<br> Yale University / Microsoft </small> </td>
-    <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <small> <br> Research Scientist <br> Apple </small> </td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
   </tr>
   <tr>
-    <td></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/maini.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/shokri.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td></td>
-    <td style="text-align:center"><a href="https://pratyushmaini.github.io/">Pratyush Maini</a> <small><br> PhD Student <br> Carnegie Mellon University </small></td>
-    <td style="text-align:center"><a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> <small> <br> Associate Professor <br> National University of Singapore	</small> </td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
   </tr>
 </table>
 
@@ -87,20 +57,20 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/cyphert.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/casey.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/thakkar.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.law.wvu.edu/faculty-staff/faculty-information/amy-cyphert">Amy Beth Cyphert</a> <small> <br> Associate Professor <br> West Virginia University College of Law </small> </td>
-    <td style="text-align:center"><a href="https://casey-meehan.github.io/">Casey Meehan</a> <small> <br>Research Engineer<br> OpenAI </small> </td>
-    <td style="text-align:center"><a href="https://www.omthakkar.com/">Om Thakkar</a> <small> <br> Research Engineer <br> OpenAI </small> </td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
+    <td style="text-align:center">TBA</td>
   </tr>
 </table>
 
 ### Call for Papers
 
-**We cordially invite submissions and participation in our “The Impact of Memorization on Trustworthy Foundation Models” workshop that will be held on July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
+**We cordially invite submissions and participation in our “The Impact of Memorization on Trustworthy Foundation Models” workshop that will be held at the Forty-Third International Conference on Machine Learning (ICML) 2026 in Seoul, South Korea.**
 
 <!-- The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>. -->
 
@@ -145,15 +115,15 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: May 27th, 2025, 11:59 PM Anywhere on Earth (AoE) <s>May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)</s>
-* **Author notification**: June 9th, 2025
-* **Camera-ready deadline**: July 13th, 2025 11:59 PM Anywhere on Earth (AoE) <s>June 30th, 2025 11:59 PM Anywhere on Earth (AoE)</s>
-* **Workshop date**: Saturday, July 19th, Meeting Room 223-224 (Full-day Event)
+* **Submission deadline**: TBA
+* **Author notification**: TBA
+* **Camera-ready deadline**: TBA
+* **Workshop date**: TBA
 
 ### Submission Instructions
-Papers should be submitted to [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM)
+Papers should be submitted to TBA
 
-Submitted papers should have up to **4 pages** (excluding references, acknowledgments, or appendices). Please use our adjusted <a href="assets/latex/icml2025memfm.zip">ICML submission template</a>.
+Submitted papers should have up to **4 pages** (excluding references, acknowledgments, or appendices). Please use our adjusted <a href="assets/latex/icml2026memfm.zip">ICML submission template</a>.
 Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
 The 4-page limit also applies to the camera-ready version of the papers.
@@ -165,7 +135,6 @@ The 4-page limit also applies to the camera-ready version of the papers.
 
 <table style="width:100%; align: center; border: none; spacing: none">
   <tr> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://hessian.ai/"><img src="assets/img/icml2025/sponsors/hessian-ai-logo-color.webp" height="80"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="80"></a></td>    
   </tr>
 </table>
@@ -193,12 +162,10 @@ The 4-page limit also applies to the camera-ready version of the papers.
     <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/lingjuanlv.png" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://sites.google.com/view/lingjuan-lyu/home/">Lingjuan Lyu</a> <small> <br>Sony AI </small> </td>
     <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>FAIR & CMU</small> </td>
     <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI & TU Darmstadt</small> </td>
   </tr>
@@ -213,11 +180,5 @@ The 4-page limit also applies to the camera-ready version of the papers.
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>  
-  </tr>
-</table>
-<table style="width:100%; align: left; border: none; spacing: none">
-  <tr> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://ai.sony"><img src="assets/img/icml2025/organizers/affiliations/sony_ai.png" height="50"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cs.washington.edu"><img src="assets/img/icml2025/organizers/affiliations/university_washington.png" height="50"></a></td>    
   </tr>
 </table>
