@@ -28,9 +28,12 @@ The schedule will be announced soon (TBA).
 
 ### Speakers 
 
+The speakers will be announced soon (TBA).
+
+
 <!-- ### Speakers (Tentative) -->
 
-<table style="width:100%">
+<!-- <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -51,11 +54,13 @@ The schedule will be announced soon (TBA).
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
   </tr>
-</table>
+</table> -->
 
 ### Panelists
 
-<table style="width:100%">
+The panelists will be announced soon (TBA).
+
+<!-- <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -66,7 +71,7 @@ The schedule will be announced soon (TBA).
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
   </tr>
-</table>
+</table> -->
 
 ### Call for Papers
 
@@ -115,9 +120,9 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: TBA
-* **Author notification**: TBA
-* **Camera-ready deadline**: TBA
+* **Submission deadline**: May 22nd 2026, 11:59 PM Anywhere on Earth (AoE)
+* **Author notification**: June 5th 2026, 11:59 PM Anywhere on Earth (AoE)
+* **Camera-ready deadline**: July 6th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: TBA
 
 ### Submission Instructions
@@ -130,14 +135,18 @@ The 4-page limit also applies to the camera-ready version of the papers.
 
 🏆 **The best paper will be recognized with a Best Paper Award** 🏆 
 
+⚠️ **Each submission must have at least one author serving as a reviewer. Failure to submit reviews, or submitting low-quality reviews, will result in desk rejection.** ⚠️
+
+
 ### Workshop Sponsors
 
+The workshop sponsors will be announced soon (TBA).
 
-<table style="width:100%; align: center; border: none; spacing: none">
+<!-- <table style="width:100%; align: center; border: none; spacing: none">
   <tr> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="80"></a></td>    
   </tr>
-</table>
+</table> -->
 
 <!-- <table style="width:100%; border: none;">
 <td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
@@ -167,7 +176,7 @@ The 4-page limit also applies to the camera-ready version of the papers.
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>FAIR & CMU</small> </td>
-    <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI & TU Darmstadt</small> </td>
+    <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>FAR.AI</small> </td>
   </tr>
 </table>
 
@@ -180,5 +189,6 @@ The 4-page limit also applies to the camera-ready version of the papers.
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.far.ai/"><img src="assets/img/icml2025/organizers/affiliations/far.webp" height="75"></a></td>  
   </tr>
 </table>
