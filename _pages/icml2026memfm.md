@@ -171,9 +171,9 @@ The workshop sponsors will be announced soon (TBA).
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
   </tr>
   <tr>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.png" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.png" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
@@ -191,6 +191,6 @@ The workshop sponsors will be announced soon (TBA).
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.far.ai/"><img src="assets/img/icml2025/organizers/affiliations/far.png" height="75"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.far.ai/"><img src="assets/img/icml2025/organizers/affiliations/far.png" height="60"></a></td>  
   </tr>
 </table>
