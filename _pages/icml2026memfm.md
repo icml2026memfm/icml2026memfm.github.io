@@ -187,10 +187,14 @@ The workshop sponsors will be announced soon (TBA).
 ### Organizer affiliations
 
 <table style="width:100%; align: left; border: none; spacing: none">
-  <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
+  <tr style="border: none; spacing: none">
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.far.ai/"><img src="assets/img/icml2025/organizers/affiliations/far.png" height="50"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>
+  </tr>
+  <tr style="border: none; spacing: none">
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.far.ai/"><img src="assets/img/icml2025/organizers/affiliations/far.png" height="75"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://humansand.ai/"><img src="assets/img/icml2025/organizers/affiliations/humansand.png" height="75"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.meta.com/"><img src="assets/img/icml2025/organizers/affiliations/meta.png" height="75"></a></td>
   </tr>
 </table>
