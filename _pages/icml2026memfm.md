@@ -162,20 +162,22 @@ The workshop sponsors will be announced soon (TBA).
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/franziskaboenisch-square.jpg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/chaudhuri.jpeg" height="150"  width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/adamdziedzic-square.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.png" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://cispa.de/en/people/c01frbo">Franziska Boenisch</a> <br> <small> CISPA Helmholtz Center for Information Security </small> </td>
+    <td style="text-align:center"><a href="https://cseweb.ucsd.edu/~kamalika/">Kamalika Chaudhuri</a> <br> <small> Meta </small> </td>
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
-    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>FAIR & CMU</small> </td>
+    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
+    <td style="text-align:center"><a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a> <small> <br>humans& & Carnegie Mellon University (Incoming)</small> </td>
     <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>FAR.AI</small> </td>
   </tr>
 </table>
