@@ -28,7 +28,7 @@ The schedule will be announced soon (TBA).
 
 ### Speakers 
 
-The speakers will be announced soon (TBA).
+More speakers will be announced soon (TBA).
 
 
 <!-- ### Speakers (Tentative) -->
