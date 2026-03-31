@@ -33,8 +33,16 @@ The speakers will be announced soon (TBA).
 
 <!-- ### Speakers (Tentative) -->
 
-<!-- <table style="width:100%">
+<table style="width:100%">
   <tr>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/steinke.jpg" height="170" width="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
+    <td style="text-align:center"><a href="https://www.thomas-steinke.net/">Thomas Steinke</a> <br> <small> Research Scientist Google DeepMind</small> </td>
+  </tr>
+  <!-- <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -43,18 +51,8 @@ The speakers will be announced soon (TBA).
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">TBA</td>
-    <td style="text-align:center">TBA</td>
-    <td style="text-align:center">TBA</td>
-  </tr>
-</table> -->
+  </tr> -->
+</table>
 
 ### Panelists
 
