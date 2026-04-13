@@ -119,7 +119,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 ### Important Dates
 
 * **Submission deadline**: April 24th 2026, 11:59 PM Anywhere on Earth (AoE)
-* **Author notification**: May 5th 2026, 11:59 PM Anywhere on Earth (AoE)
+* **Author notification**: May 15th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Camera-ready deadline**: July 6th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: TBA
 
