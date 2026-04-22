@@ -43,8 +43,7 @@ More speakers will be announced soon (TBA).
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
     <td style="text-align:center"><a href="https://www.thomas-steinke.net/">Thomas Steinke</a> <br> <small> Research Scientist Google DeepMind</small> </td>
     <td style="text-align:center"><a href="https://www.thomas-steinke.net/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation Research Institute (AVERI)</small> </td>
-</table>
-
+  </tr>
   <!-- <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -55,6 +54,7 @@ More speakers will be announced soon (TBA).
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
   </tr> -->
+</table>
 
 ### Panelists
 
