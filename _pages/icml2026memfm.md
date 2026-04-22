@@ -44,7 +44,7 @@ More speakers will be announced soon (TBA).
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
     <td style="text-align:center"><a href="https://www.thomas-steinke.net/">Thomas Steinke</a> <br> <small> Research Scientist Google DeepMind</small> </td>
     <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation<br>Research Institute (AVERI)</small> </td>
-    <td style="text-align:center"><a href="https://johntzwei.github.io">Johnny Tian-Zheng Wei</a> <br> <small> PhD Candidate University of Southern California</small> </td>
+    <td style="text-align:center"><a href="https://johntzwei.github.io">Johnny Tian-Zheng Wei</a> <br> <small> PhD Candidate University<br>of Southern California</small> </td>
   </tr>
   <!-- <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
