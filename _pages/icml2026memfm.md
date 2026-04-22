@@ -37,11 +37,14 @@ More speakers will be announced soon (TBA).
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/steinke.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/cooper.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
     <td style="text-align:center"><a href="https://www.thomas-steinke.net/">Thomas Steinke</a> <br> <small> Research Scientist Google DeepMind</small> </td>
-  </tr>
+    <td style="text-align:center"><a href="https://www.thomas-steinke.net/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation Research Institute (AVERI)</small> </td>
+</table>
+
   <!-- <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -52,7 +55,6 @@ More speakers will be announced soon (TBA).
     <td style="text-align:center">TBA</td>
     <td style="text-align:center">TBA</td>
   </tr> -->
-</table>
 
 ### Panelists
 
@@ -118,7 +120,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: April 24th 2026, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: May 8th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: May 15th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Camera-ready deadline**: July 6th 2026, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: TBA
