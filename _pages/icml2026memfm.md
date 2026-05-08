@@ -45,14 +45,18 @@ More speakers will be announced soon (TBA).
     <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation<br>Research Institute (AVERI)</small> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/wei.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/wang.jpg" height="170" width="170"></td>
-    <td style="text-align:center"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://johntzwei.github.io">Johnny Tian-Zheng Wei</a> <br> <small> PhD Candidate University<br>of Southern California</small> </td>
-    <td style="text-align:center"><a href="https://cseweb.ucsd.edu/~yuxiangw/">Yu-Xiang Wang</a> <br> <small> Associate Professor<br>UC San Diego</small> </td>
-    <td style="text-align:center"></td>
+    <td colspan="3">
+      <div style="display:flex; justify-content:center;">
+        <div style="width:33.33%; text-align:center">
+          <img src="assets/img/icml2025/speakers/wei.jpg" height="170" width="170"><br>
+          <a href="https://johntzwei.github.io">Johnny Tian-Zheng Wei</a> <br> <small> PhD Candidate University<br>of Southern California</small>
+        </div>
+        <div style="width:33.33%; text-align:center">
+          <img src="assets/img/icml2025/speakers/wang.jpg" height="170" width="170"><br>
+          <a href="https://cseweb.ucsd.edu/~yuxiangw/">Yu-Xiang Wang</a> <br> <small> Associate Professor<br>UC San Diego</small>
+        </div>
+      </div>
+    </td>
   </tr>
   <!-- <tr>
     <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
@@ -68,20 +72,18 @@ More speakers will be announced soon (TBA).
 
 ### Panelists
 
-The panelists will be announced soon (TBA).
-
-<!-- <table style="width:100%">
+<table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/placeholder.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/cooper.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/panelists/thakkar.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center">TBA</td>
-    <td style="text-align:center">TBA</td>
-    <td style="text-align:center">TBA</td>
+    <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
+    <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation<br>Research Institute (AVERI)</small> </td>
+    <td style="text-align:center"><a href="https://www.omthakkar.com">Om Thakkar</a> <br> <small> Research Engineer OpenAI</small> </td>
   </tr>
-</table> -->
+</table>
 
 ### Call for Papers
 
