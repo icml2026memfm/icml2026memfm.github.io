@@ -75,12 +75,12 @@ More speakers will be announced soon (TBA).
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/cooper.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/panelists/katherine.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/panelists/thakkar.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <br> <small> Research Scientist Apple</small> </td>
-    <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <br> <small> AI Verification and Evaluation<br>Research Institute (AVERI)</small> </td>
+    <td style="text-align:center"><a href="https://katelee168.github.io/">Katherine Lee</a> <br> <small> Research Scientist OpenAI<br>GenLaw Center</small> </td>
     <td style="text-align:center"><a href="https://www.omthakkar.com">Om Thakkar</a> <br> <small> Research Engineer OpenAI</small> </td>
   </tr>
 </table>
