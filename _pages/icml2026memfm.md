@@ -132,10 +132,10 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: May 8th 2026, 11:59 PM Anywhere on Earth (AoE)
-* **Author notification**: May 15th 2026, 11:59 PM Anywhere on Earth (AoE)
+* ~~**Submission deadline**: May 8th 2026, 11:59 PM Anywhere on Earth (AoE)~~
+* ~~**Author notification**: May 15th 2026, 11:59 PM Anywhere on Earth (AoE)~~
 * **Camera-ready deadline**: July 6th 2026, 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: TBA
+* **Workshop date**: July 11th 2026
 
 ### Submission Instructions
 Papers should be submitted to [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/MemFM).
@@ -183,12 +183,12 @@ The workshop sponsors will be announced soon (TBA).
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/dominikhintersdorf-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
+    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI (DFKI) & TU Darmstadt </small> </td>
     <td style="text-align:center"><a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a> <small> <br>humans& & Carnegie Mellon University (Incoming)</small> </td>
     <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>FAR.AI</small> </td>
   </tr>
