@@ -37,7 +37,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 11:30 – 12:00 | 30 min | Invited Talk 3 — A. Feder Cooper (Stanford): TBA |
 | 12:00 – 13:30 | 90 min | 🍽 **Lunch** *(on your own)* |
 | 13:30 – 14:00 | 30 min | Invited Talk 4 — Yu-Xiang Wang (UC San Diego): *Memorization and Generalization of Gradient-Descent trained Neural Networks* |
-| 14:00 – 14:30 | 30 min | Invited Talk 5 — Johnny Tian-Zheng Wei (USC): TBA |
+| 14:00 – 14:30 | 30 min | Invited Talk 5 — Johnny Tian-Zheng Wei (USC): Measuring the capabilities and properties of LLMs with spiking |
 | 14:30 – 15:00 | 30 min | Panel Discussion |
 | 15:00 – 15:30 | 30 min | :coffee: Coffee Break *(catered)* |
 | 15:30 – 15:45 | 15 min | Contributed Talk 5 — *Deployment-Time Memorization in Foundation-Model Agents* |
