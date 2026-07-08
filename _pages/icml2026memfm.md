@@ -34,7 +34,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 10:30 – 11:00 | 30 min | Invited Talk 2 — Vitaly Feldman (Apple ML Research): *Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts* |
 | 11:00 – 11:15 | 15 min | Contributed Talk 3 — *Memory Adapters Enable Fast, Flexible Knowledge Unlearning in LLMs* |
 | 11:15 – 11:30 | 15 min | Contributed Talk 4 — *KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing* |
-| 11:30 – 12:00 | 30 min | Invited Talk 3 — A. Feder Cooper (Stanford): TBA |
+| 11:30 – 12:00 | 30 min | Invited Talk 3 — A. Feder Cooper (Stanford): *Extractable Memorization From First Principles* |
 | 12:00 – 13:30 | 90 min | 🍽 **Lunch** *(on your own)* |
 | 13:30 – 14:00 | 30 min | Invited Talk 4 — Yu-Xiang Wang (UC San Diego): *Memorization and Generalization of Gradient-Descent trained Neural Networks* |
 | 14:00 – 14:30 | 30 min | Invited Talk 5 — Johnny Tian-Zheng Wei (USC): Measuring the capabilities and properties of LLMs with spiking |
