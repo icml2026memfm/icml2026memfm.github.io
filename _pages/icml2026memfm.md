@@ -30,7 +30,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 09:10 – 09:25 | 15 min | Contributed Talk 1 — *Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models* |
 | 09:25 – 09:40 | 15 min | Contributed Talk 2 — *Estimating near-verbatim extraction risk in language models with decoding-constrained beam search* |
 | 09:40 – 10:00 | 20 min | :coffee: Coffee Break *(catered)* |
-| 10:00 – 10:30 | 30 min | Invited Talk 1 — Thomas Steinke (Anthropic): TBA :globe_with_meridians: *remote* |
+| 10:00 – 10:30 | 30 min | Invited Talk 1 — Thomas Steinke (Anthropic): *On the Connection Between Privacy & Generalization* :globe_with_meridians: *remote* |
 | 10:30 – 11:00 | 30 min | Invited Talk 2 — Vitaly Feldman (Apple ML Research): *Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts* |
 | 11:00 – 11:15 | 15 min | Contributed Talk 3 — *Memory Adapters Enable Fast, Flexible Knowledge Unlearning in LLMs* |
 | 11:15 – 11:30 | 15 min | Contributed Talk 4 — *KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing* |
