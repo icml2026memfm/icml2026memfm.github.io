@@ -42,7 +42,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 15:00 – 15:30 | 30 min | :coffee: Coffee Break *(catered)* |
 | 15:30 – 15:45 | 15 min | Contributed Talk 5 — *Deployment-Time Memorization in Foundation-Model Agents* |
 | 15:45 – 15:50 | 5 min | Closing Remarks |
-| 15:50 – onwards | 70+ min, **open-ended** | :pushpin: **Poster Session** *(Hall A)* |
+| 15:50 – onwards | 70+ min, **open-ended** | :pushpin: **Poster Session** *(Hall A: 2808-2817 and 2900-2909)* |
 
 ### Speakers 
 
